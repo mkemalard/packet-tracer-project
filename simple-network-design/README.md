@@ -7,9 +7,9 @@ SSG company has its office in a 3-level building and has 3 departments at each l
 Besides PCs, SSG company also has printers, servers, and access points, each of which will be separated into different VLANs. every department will have 1 printer and an access point will be placed on each level the servers that SSG company has will be used as a web server, DNS server, DHCP server, and Email server
 
 NOTE: 
-YOU CAN DETERMINE YOUR IP ADDRESS 
-ALL END DEVICES WILL GET THEIR IP ADDRESS BY USING DHCP EXCEPT PRINTERS
-THE ROUTING PROTOCOL THAT IS USED IN THIS PROJECT IS OSPF
+- YOU CAN DETERMINE YOUR IP ADDRESS 
+- ALL END DEVICES WILL GET THEIR IP ADDRESS BY USING DHCP EXCEPT PRINTERS
+- THE ROUTING PROTOCOL THAT IS USED IN THIS PROJECT IS OSPF
 
 DEVICES USED IN THIS PROJECT
 - 12 L2 switches

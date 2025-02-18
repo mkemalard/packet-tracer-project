@@ -11,12 +11,12 @@ YOU CAN DETERMINE YOUR IP ADDRESS
 ALL END DEVICES WILL GET THEIR IP ADDRESS BY USING DHCP EXCEPT PRINTERS
 
 DEVICES USED IN THIS PROJECT
-12 L2 switches
-2 Multilayer/L3 switches
-4 routers
-3 access point
-4 servers
-9 printers
+- 12 L2 switches
+- 2 Multilayer/L3 switches
+- 4 routers
+- 3 access point
+- 4 servers
+- 9 printers
 
 FRAMEWORK
 - add initial configuration to switch and router (hostname, password, banner, etc)
